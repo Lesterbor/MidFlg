@@ -1,0 +1,8 @@
+硬件引脚资源参考
+	http://www.mateksys.com/?portfolio=f411-MINI
+
+BETAFLIGHT源代码下载地址
+	https://github.com/betaflight/betaflight/archive/refs/tags/4.2.11.zip
+
+BETAFLIGHT版本发布页面
+	https://github.com/betaflight/betaflight/releases
